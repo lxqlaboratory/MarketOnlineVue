@@ -1,0 +1,3 @@
+[0811/095133.720:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1023/112243.599:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1023/163711.428:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
